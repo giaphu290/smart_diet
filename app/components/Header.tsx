@@ -38,9 +38,11 @@ const Header = () => {
             animate={{ opacity: 1, x: 0 }}
           >
             <motion.a
-              href="#download"
+              href="https://expo.dev/accounts/s3rcc/projects/SmartDiet/builds/f2d6b437-8d01-4787-880f-1239eaed9b63"
               className="hidden md:flex items-center space-x-2 text-green-600"
               whileHover={{ scale: 1.05 }}
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <FaLeaf className="text-xl" />
               <span>Bắt đầu miễn phí</span>
