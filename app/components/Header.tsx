@@ -49,7 +49,7 @@ const Header = () => {
             </motion.a> */}
             
             <motion.a
-              href="/apk/smart-diet.apk"
+              href="/apk/smart-diet-v1.02.apk"
               download
               className="flex items-center space-x-2 bg-gradient-to-r from-green-600 to-teal-600 text-white px-6 py-2 rounded-full shadow-lg hover:shadow-green-500/25"
               whileHover={{ scale: 1.05 }}
