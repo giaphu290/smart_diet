@@ -37,8 +37,8 @@ const Header = () => {
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
           >
-            {/* <motion.a
-              href="https://expo.dev/accounts/s3rcc/projects/SmartDiet/builds/f2d6b437-8d01-4787-880f-1239eaed9b63"
+            <motion.a
+              href="https://expo.dev/accounts/s3rcc/projects/SmartDiet/builds/d7df975d-6105-4b29-b001-27a51461bcc0"
               className="hidden md:flex items-center space-x-2 text-green-600"
               whileHover={{ scale: 1.05 }}
               target="_blank"
@@ -46,7 +46,7 @@ const Header = () => {
             >
               <FaLeaf className="text-xl" />
               <span>Bắt đầu miễn phí</span>
-            </motion.a> */}
+            </motion.a>
             
             <motion.a
               href="/apk/smart-diet-v1.02.apk"
